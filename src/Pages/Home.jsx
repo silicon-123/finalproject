@@ -71,14 +71,7 @@ export default function Home() {
       img: "https://images.ctfassets.net/621t91s0mnkp/4QO99yChcfgWZ3BbEk25FI/bf5d9b24fa2c888181ca36e7d1b36c0a/car_desktop_072723_sec4_shoes.jpg",
       title: "Stock-up for Sale",
     },
-    {
-      img: "https://images.ctfassets.net/5de70he6op10/2FN1eYunGjb7iEefWXUqzL/9ebe26aa22ab3e675b1f27195af512f6/LL_M1e.jpg?w=856&q=80&fm=webp",
-      title: "SHOP-Shoes",
-    },
-    {
-      img: "https://images.ctfassets.net/5de70he6op10/4zCA1PXpVLBKmHSl7Od02R/1b5efdb8c8bb14c2edfa17d49818a4b5/LL_M1f.jpg?w=856&q=80&fm=webp",
-      title: "SHOP-Accessories",
-    },
+    
   ];
   const data2 = [
     {
