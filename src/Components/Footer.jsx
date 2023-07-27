@@ -39,7 +39,7 @@ const Footer = () => {
       <div className={styles.flexdiv}>
         <div>
           <h3 className={styles.flexh3}>Help</h3>
-          <a href="">Track Your Order</a>
+          <a href="">Track Order</a>
           <a href="">Start A Return Or Exchange(US)</a>
           <a href="">Returns & Exchanges</a>
           <a href="">Shipping</a>
