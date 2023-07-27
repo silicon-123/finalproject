@@ -47,7 +47,7 @@ export default function Home() {
   const cards = [
     {
       image:
-        "https://images.ctfassets.net/5de70he6op10/NA9VbtVn4KtwiQST6Blor/d3093ccc502cb9393d54e0ab374f6eb0/121122_30OffPrimrose_HPGSecondaryBanner_LS_02.jpg?w=2882&q=80&fm=webp",
+        "https://images.ctfassets.net/621t91s0mnkp/ZlV45wqVLj071vvKwkgtu/98f1b1d58e7e98df9fc3b3fbd16ab094/car_desktop_072523_hero_marquee.jpg",
     },
     {
       image:
