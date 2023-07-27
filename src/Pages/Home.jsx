@@ -47,7 +47,7 @@ export default function Home() {
   const cards = [
     {
       image:
-        "https://images.ctfassets.net/5de70he6op10/NA9VbtVn4KtwiQST6Blor/d3093ccc502cb9393d54e0ab374f6eb0/121122_30OffPrimrose_HPGSecondaryBanner_LS_02.jpg?w=2882&q=80&fm=webp",
+        "https://images.ctfassets.net/621t91s0mnkp/ZlV45wqVLj071vvKwkgtu/98f1b1d58e7e98df9fc3b3fbd16ab094/car_desktop_072523_hero_marquee.jpg",
     },
     {
       image:
@@ -56,29 +56,22 @@ export default function Home() {
   ];
   const data = [
     {
-      img: "https://images.ctfassets.net/5de70he6op10/1UtgIRn3AHo7yfB3CsbYdw/ced16c178459bc64efcf64a82422808b/LL_M1a.jpg?w=856&q=80&fm=webp",
-      title: "SHOP-New Arrivals",
+      img: "https://images.ctfassets.net/621t91s0mnkp/7A9oOokf9FRtfIylHTOR0z/d4d608853f0ec1b8fc0e5c413e404805/car_desktop_072523_sec1_dealsbaby.jpg",
+      title: "Baby Deals",
     },
     {
-      img: "https://images.ctfassets.net/5de70he6op10/3RVZ7uybOuPPShdGFMqT8v/b5959346a8523c91664dd622f29f0b42/LL_M1b.jpg?w=856&q=80&fm=webp",
-      title: "SHOP-Jackets",
+      img: "https://images.ctfassets.net/621t91s0mnkp/PpUszDjJZ6Cn52b5cfhJP/1ebdc0d21c1e106757659fb32b92ba63/car_desktop_072523_sec2_dealsforhim.jpg",
+      title: "Deals For Him",
     },
     {
-      img: "https://images.ctfassets.net/5de70he6op10/29ixjcb2lf5i9QNbF0PWJq/6548be3127a3a13e7b4f13e6f029d059/LL_M1c.jpg?w=856&q=80&fm=webp",
-      title: "HIT THE-Holiday Party Shop",
+      img: "https://images.ctfassets.net/621t91s0mnkp/4obVKu5RMH8BssJc05ngtH/7bde1601746b833b8b9c0c8bf8e6011f/car_desktop_072523_sec3_dealsforher.jpg",
+      title: "Deals For Her",
     },
     {
-      img: "https://images.ctfassets.net/5de70he6op10/575n66TNKySGUMZHoEPyk1/a8c0be74eb5f6fb558385a19b5cfc120/LL_M1d.jpg?w=856&q=80&fm=webp",
-      title: "SHOP-Dress",
+      img: "https://images.ctfassets.net/621t91s0mnkp/4QO99yChcfgWZ3BbEk25FI/bf5d9b24fa2c888181ca36e7d1b36c0a/car_desktop_072723_sec4_shoes.jpg",
+      title: "Stock-up for Sale",
     },
-    {
-      img: "https://images.ctfassets.net/5de70he6op10/2FN1eYunGjb7iEefWXUqzL/9ebe26aa22ab3e675b1f27195af512f6/LL_M1e.jpg?w=856&q=80&fm=webp",
-      title: "SHOP-Shoes",
-    },
-    {
-      img: "https://images.ctfassets.net/5de70he6op10/4zCA1PXpVLBKmHSl7Od02R/1b5efdb8c8bb14c2edfa17d49818a4b5/LL_M1f.jpg?w=856&q=80&fm=webp",
-      title: "SHOP-Accessories",
-    },
+    
   ];
   const data2 = [
     {
