@@ -82,7 +82,7 @@ export default function Nav() {
                 style={{ marginLeft: "-120px", width: "200%" }}
               >
                 {/* <FormLabel>First name</FormLabel> */}
-                <Input placeholder="Search Anthropologie" />
+                <Input placeholder="Search Babywear" />
               </FormControl>
               {/* <RouterLink to="/cart"> */}
               <GiFullWoodBucketHandle
