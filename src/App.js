@@ -10,7 +10,6 @@ function App() {
     <div className="App">
    <NavbarFinal/>
     <AllRoutes/>
-    <Footer/>
     {/* <Cart/> */}
     {/* <Cardetails/> */}
     </div>
