@@ -131,7 +131,7 @@ export default function Home() {
   const data8 = [
     {
       img: "https://images.ctfassets.net/621t91s0mnkp/XaPcZn1V7LrzFBgwp2aHL/6a4d54f8b45282835cee97106ac61bb6/car_desktop_062023_holiday1.jpg",
-      name: "The Sure-to-Please Shop",
+      name: "Soft & Sustainable",
       title: "Made with your little one and our planet in mind!",
     },
     {
