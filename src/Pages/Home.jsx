@@ -75,14 +75,37 @@ export default function Home() {
   ];
   const data2 = [
     {
-      img: "https://images.ctfassets.net/5de70he6op10/7xr3zj76r8uzB0cWfUrKQR/ed4322b5e2ed657b06321686489bb645/LS_M3_Home_Thursday.jpg?w=2640&q=80&fm=webp",
-      title: "shop gifts forn the home",
+      img: "https://images.ctfassets.net/621t91s0mnkp/XrRcDzTRzDSrxlNjuFRa6/4df7daa32e8a349d4126ba02ee7a0640/Artboard_____1.png",
+      title: "Read now",
     },
   ];
   const data3 = [
     {
-      img: "https://images.ctfassets.net/5de70he6op10/4Coxu47V0tyfirEz2UcoJM/176476dd10f81019582c3e3de68eaefa/LS_M4_Winterwhites.jpg?w=2641&q=80&fm=webp",
-      title: "shop all clothing",
+
+      img: "https://images.ctfassets.net/621t91s0mnkp/2wLBA2NR9SvUHAhgUDiLO6/3ea5061ccc8937fab2e83af7bfeec1e2/car_Q2_babygirl_blue.png",
+      title: "Baby Girl",
+      img: "https://images.ctfassets.net/621t91s0mnkp/75F4rtYujbXXybJbDgHAup/cfa6276f45611fe3c12bb1cf2fd55ba5/car_Q2_todgirl_blue.png",
+      title: "Toddler Girl",
+      img: "https://images.ctfassets.net/621t91s0mnkp/450QCCYp9LiL8L6r3dOKem/9206f04d599fc63a4f5d8dee37967efe/car_Q2_kidgirl_blue.png",
+      title: "kid Girl",
+      img: "https://images.ctfassets.net/621t91s0mnkp/5T7VqOXgf4cx4oTVGIcX57/ea987d93442bd89641775ebf51d943c6/car_Q2_babyboy_blue.png",
+      title: "Baby Boy",
+      img: "https://images.ctfassets.net/621t91s0mnkp/6uJZRQ7gtHrZmkDfFm6nZq/dfbfb39720b75260a358b8b6f31d3ef7/car_Q2_todboy_blue.png",
+      title: "Toddler boy",
+      img: "https://images.ctfassets.net/621t91s0mnkp/2X342vD6rlQBJuG7KOQjAM/fe460558adfdb78aa447c24802d4b5d4/car_Q2_kidboy_blue.png",
+      title: "kid boy",
+      img: "https://images.ctfassets.net/621t91s0mnkp/3rXNIhmfB7YxSUcodxkB8x/c8ce2cdf0a09327d797dfcefe8f58026/car_Q2_familymatching_blue.png",
+      title: "Family matching",
+      img: "https://images.ctfassets.net/621t91s0mnkp/5xrHhP3DB3GEWO3QQVm6Kl/013a36c1f6dffa44ea425e4eb1632642/car_tops_category_072523.jpg",
+      title: "Tops",
+      img: "https://images.ctfassets.net/621t91s0mnkp/6LTkJqVWLxJj4ZZnmZdlm3/760670c0c209ce5a7e64643fc7c92232/car_pants_category_072523.jpg",
+      title: "Bottom",
+      img: "https://www.carters.com/carters-pajamas?acid=Carters_HP_categories",
+      title: "Pajama",
+      img: "https://images.ctfassets.net/621t91s0mnkp/78vDsIPoctR4bBviG5oyZ3/6c7bcff898a94e3a8df82ff2aa345144/car_shoes_category_072523.jpg",
+      title: "Shoes",
+      img:"https://images.ctfassets.net/621t91s0mnkp/43TO7zZ6fG9promfUhk2Re/5272a8030ed6813d4cc6d9c5debb061d/shopourfaves_clr.png",
+      title:"Clearance",
     },
   ];
   const data4 = [
@@ -251,7 +274,7 @@ export default function Home() {
           </div>
         ))}
       </Grid>
-      <Grid ml="5%" mt="40px">
+      <Grid templateColumns="repeat(12,50%%)" ml="5%" gap="7" mt="50px">
         {data3.map((item, i) => (
           <div key={i}>
             <RouterLink to="/products">
@@ -262,12 +285,12 @@ export default function Home() {
             <Center>
               <Button
                 style={{
-                  width: "auto",
+                  width: "50px",
                   backgroundColor: "white",
                   mt: "-100px",
                   position: "relative",
                   bottom: "70px",
-                  borderRadius: "none",
+                  borderRadius: "50%",
                 }}
               >
                 {item.title}
