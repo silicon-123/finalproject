@@ -280,7 +280,7 @@ const data8 = {
       price: "$32.00",
     },
   ],
-  "Toddler girl": [
+  "Toddler Girl": [
     {
       img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw422d196b/productimages/2P902710_1.jpg?sw=354&sh=444",
       title: "Toddler Owl Jersey Tee",
@@ -345,7 +345,7 @@ const data8 = {
   
     
     
-  "kid girl": [
+  "kid Girl": [
     {
       img: "https://www.carters.com/carters-shop-kid-girl-clothes/V_3P536810.html",
       title: "Kid Rainbow Jersey Dress",
@@ -407,46 +407,46 @@ const data8 = {
       price: "$12.00",
     },
   ],
-  Jumpsuits: [
+  "Baby Boy": [
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4123464030052_000_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "Hutch Sequin Jumpsuit",
-      price: "248.00",
+      img: "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b7/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw0be97a79/productimages/1P543210.jpg?sw=354&sh=444&yocs=4G_4E_",
+      title: "Baby Zip-Front Fleece Hoodie",
+      price: "$14.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/78270386_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "Free People Movement Releve One-Piece Bodysuit",
-      price: "128.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa0c70143/productimages/rtfokeotex1.jpg?sw=354&sh=444",
+      title: "Baby Pull-On Fleece Joggers",
+      price: "$8.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/76038421_020_b2?$an-category$&qlt=80&fit=constrain",
-      title: "Free People Movement Releve One-Piece Bodysuit",
-      price: "148 .00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5810d046/productimages/1P334510_LV03.jpg?sw=354&sh=444",
+      title: "Baby 2-Piece Henley Bodysuit Pant Set",
+      price: "$10.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/79994067_049_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "By Anthropologie V-Neck Jumpsuit",
-      price: "118.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05f4e3b5/productimages/1P544910_LV03.jpg?sw=354&sh=444",
+      title: "Baby Grandpa Long-Sleeve Bodysuit",
+      price: "$7.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/80233208_031_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "By Anthropologie V-Neck Jumpsuit",
-      price: "79.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw143ddf97/productimages/1P334710_LV03.jpg?sw=354&sh=444",
+      title: "Baby 2-Piece Camo Bodysuit Pant Set",
+      price: "$10.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4115687810002_009_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "By Anthropologie V-Neck Jumpsuit",
-      price: "8.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa6ecedc4/productimages/1P545110_LV03.jpg?sw=354&sh=444",
+      title: "Baby Best Bros Long-Sleeve Bodysuit",
+      price: "$7.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/80249758_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "Daily Practice by Anthropologie V-Neck Jumpsuit",
-      price: "28.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw85a92b72/productimages/1P545610_LV03.jpg?sw=354&sh=444",
+      title: "Baby Auntie Long-Sleeve Bodysuit",
+      price: "$7.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/78542370_081_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "By Anthropologie Lounge Around Jumpsuit ",
-      price: "8.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw16922d49/productimages/1P338010_LV03.jpg?sw=354&sh=444",
+      title: "Baby Dinosaur Striped Romper ",
+      price: "$7.00",
     },
   ],
   "Toddler boy": [
@@ -473,7 +473,7 @@ const data8 = {
     {
       img: "https://www.carters.com/carters-shop-toddler-boy-clothes/V_2M414211.html",
       title: "",
-      price: ".00",
+      price: "7.00",
     },
     {
       img: "https://www.carters.com/carters-shop-toddler-boy-clothes/V_2P539010.html",
