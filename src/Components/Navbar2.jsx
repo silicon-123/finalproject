@@ -72,7 +72,7 @@ export default function Navbar2() {
           >
             English($)
           </Button>
-          <RouterLink to="/signin">
+          <RouterLink to="/Signup">
             <Button
               as={"a"}
               fontSize={"sm"}
@@ -80,7 +80,18 @@ export default function Navbar2() {
               variant={"link"}
               href={"#"}
             >
-              Sign In/ Sign Up
+              SignUp
+            </Button>
+          </RouterLink>
+          <RouterLink to="/Login">
+            <Button
+              as={"a"}
+              fontSize={"sm"}
+              fontWeight={400}
+              variant={"link"}
+              href={"#"}
+            >
+              Login
             </Button>
           </RouterLink>
         </Stack>

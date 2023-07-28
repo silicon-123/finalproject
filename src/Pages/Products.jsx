@@ -33,9 +33,9 @@ import { ReactText } from "react";
 //   icon: IconType;
 // }
 const data8 = {
-  New: [
+  "Baby girl": [
     {
-      img: "https://images.ctfassets.net/5de70he6op10/2357qdj7DEFGasAKCk9tIo/30f2d00fd702d439b50b5f9141fc855c/121322_Upto50Off_SelectGifting_OutCatTile.jpg?w=546&q=80&fm=webp",
+      img: "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b7/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwee223b6c/productimages/1P543610.jpg?sw=354&sh=444&yocs=4G_4E_"
     },
     {
       img: "https://images.urbndata.com/is/image/Anthropologie/4130573040021_000_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
