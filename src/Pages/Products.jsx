@@ -825,7 +825,132 @@ const data8 = {
       price: "$33.00",
     },
   ],
+  Pajama: [
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwcc8294e5/productimages/1O833310_LV03.jpg?sw=354&sh=444",
+      title: "Baby 1-Piece Dinosaur 100% Snug Fit Cotton Footie Pajamas",
+      price: "$11.00",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4123fb5e/productimages/1O833210_LV03.jpg?sw=354&sh=444",
+      title: "Baby 1-Piece Rhino 100% Snug Fit Cotton Footie Pajamas",
+      price: "$11.00",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw473250d7/productimages/1O833110_LV03.jpg?sw=354&sh=444",
+      title: "Baby 1-Piece Firetruck 100% Snug Fit Cotton Footless Pajamas",
+      price: "$11.00",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa077842f/productimages/3K001718_LV04.jpg?sw=354&sh=444",
+      title: "Kid Super Mario™ 100% Snug Fit Cotton Pajamas",
+      price: "$22.00", 
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw222fc135/productimages/3M521913_LV03.jpg?sw=354&sh=444",
+      title: "Kid Super Mario™ 100% Snug Fit Cotton Pajamas",
+      price: "$22.00",
+    },
+    { img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwb013dcbb/productimages/3M507410_LV03.jpg?sw=354&sh=444",
+      title: "Kid 4-Piece Tie-Dye 100% Snug Fit Cotton Pajamas",
+      price: "$27.00",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw6951ec4e/productimages/3O828710_LV03.jpg?sw=354&sh=444",
+      title: "Kid 2-Piece Pastel Loose Fit Pajamas",
+      price: "$15.00",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw97474944/productimages/1O879010_LV03.jpg?sw=354&sh=444",
+      title: "Baby Chameleon 2-Way Zip Footie Sleep & Play Pajamas",
+      price: "$9.00",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw241cfdeb/productimages/1O833810_LV03.jpg?sw=354&sh=444",
+      title: "Baby 1-Piece Footed Fire Truck Pajamas",
+      price: "$11.00",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw6a0f1199/productimages/1O878110_LV03.jpg?sw=354&sh=444",
+      title: "Baby Whale 2-Way Zip Cotton Sleep & Play Pajamas",
+      price: "$9.00",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw719e7876/productimages/1O071410_LV03.jpg?sw=354&sh=444",
+      title: "Baby 1-Piece Tiger 100% Snug Fit Cotton Footie Pajamas",
+      price: "$10.00",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw570e2401/productimages/1O826210_LV03.jpg?sw=354&sh=444",
+      title: "Baby 1-Piece Tie-Dye 100% Snug Fit Cotton Footless Pajamas",
+      price: "$12.00",
+    },
+  ],
+  Clearance: [
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw403b9442/productimages/2O735111_LV03.jpg?sw=354&sh=444",
+      title: "Toddler Cousin Crew Jersey Tee",
+      price: "$3.19",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw45506ffe/productimages/3P135320_LV03.jpg?sw=354&sh=444",
+      title: "Kid Big Sis Jersey Tee",
+      price: "$3.59",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw6853aa9f/productimages/3O735011_LV03.jpg?sw=354&sh=444",
+      title: "Kid Cousin Crew Jersey Tee",
+      price: "$3.59",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwdad2b91f/productimages/3O902611_LV03.jpg?sw=354&sh=444",
+      title: "Kid It's All Good Tie-Dye Jersey Tank",
+      price: "$4.79",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw43668478/productimages/3O889311_1.jpg?sw=354&sh=444",
+      title: "Kid Canvas Trail Shorts",
+      price: "$8.79",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw47d5efa8/productimages/3O890510_1.jpg?sw=354&sh=444",
+      title: "Kid Baja Stripe Trail Shorts",
+      price: "$9.59",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe124c8f4/productimages/3O889313_1.jpg?sw=354&sh=444",
+      title: "Kid Canvas Trail Shorts",
+      price: "$8.79",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw03067a50/productimages/2O735311_LV03.jpg?sw=354&sh=444",
+      title: "Toddler Cousin Crew Jersey Tee",
+      price: "$3.19",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa30c17a6/productimages/cobrandflipflopbackstrap.jpg?sw=354&sh=444",
+      title: "Toddler Classic Flip Flops",
+      price: "$2.79",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwbfeca809/productimages/CS23L07H_2.jpg?sw=354&sh=444",
+      title: "Fish Flip Flops",
+      price: "$2.39",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa30c17a6/productimages/cobrandflipflopbackstrap.jpg?sw=354&sh=444",
+      title: "Classic Flip Flops",
+      price: "$2,79",
+    },
+    {
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw92a1fa0f/productimages/OF20A08H_1.jpg?sw=354&sh=444",
+      title: "Toddler Bump Toe Athletic Sneakers",
+      price: "$9.59",
+    },
+  
+  ],
 };
+
 const LinkItems = [
   { name: " Baby Deals" },
   { name: "Deals for him" },
