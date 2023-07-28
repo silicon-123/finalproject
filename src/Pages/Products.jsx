@@ -636,7 +636,7 @@ const data8 = {
       price: "$41.00",
     },
   ],
- Top:[
+ "Top":[
     {
       img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw02744078/productimages/2Q261514_LV03.jpg?sw=354&sh=444",
       title: "Toddler Strawberry Plant Jersey Tee",
@@ -698,7 +698,69 @@ const data8 = {
       price: "$5.00",
     },
   ],
-  Shoes: [
+  "Bottom": [
+    {
+      img: "https://www.carters.com/carters-bottoms/V_2N357710.html",
+      title: "Toddler Classic True Blue Wash Jeans",
+      price: "$28.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_2N357910.html",
+      title: "Toddler Boot-Cut Heritage Rinse Jeans",
+      price: "$34.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_2N131710.html",
+      title: "Toddler Stretch Chino Shorts",
+      price: "$18 .00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_1P539010.html",
+      title: "Baby Classic OshKosh Overall",
+      price: "$31.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_3N386911.html",
+      title: "Kid Skinny Leg Heritage Rinse Jeans",
+      price: "$35.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_3O984410.html",
+      title: "Kid Paperbag Waist Belted Button-Front Skirt",
+      price: "$18.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_3P313010.html",
+      title: "Kid Active Jersey Baseline Shorts",
+      price: "$6.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_2O973210.html",
+      title: "Toddler Active Mesh Shorts",
+      price: "$10.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_3P534810.html",
+      title: "Kid High-Rise Flare Jeans",
+      price: "$19.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_3P292910.html",
+      title: "Kid Floral Print Tiered Pull-On Skirt",
+      price: "$20.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_3N376010.html",
+      title: "Kid Straight Leg Tinted Wash Jeans",
+      price: "$34.00",
+    },
+    {
+      img: "https://www.carters.com/carters-bottoms/V_3O173810.html",
+      title: "Kid Leaf Leggings",
+      price: "$17.00",
+    },
+  ],
+  "Shoes": [
     {
       img: "https://www.carters.com/carters-shoes/V_CF22F17H.html",
       title: "Toddler High-Top Boots",
