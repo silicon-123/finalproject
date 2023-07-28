@@ -33,130 +33,130 @@ import { ReactText } from "react";
 //   icon: IconType;
 // }
 const data8 = {
-  "Baby girl": [
+  "Baby Deals": [
     {
       img: "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b7/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwee223b6c/productimages/1P543610.jpg?sw=354&sh=444&yocs=4G_4E_"
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4130573040021_000_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Stella Nova Embellished One-Shoulder Dress",
-      price: "425.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw56177106/productimages/1O951810_LV03.jpg?sw=354&sh=444",
+      title: "Baby Chambray Romper",
+      price: "$12.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4115657990006_005_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Mare Mare x Anthropologie Sequin Bomber Jackets",
-      price: "178 .00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw1ccc1fd0/productimages/1P330110_LV03.jpg?sw=354&sh=444",
+      title: "Baby Sleevless Romper",
+      price: "$9 .00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4123464030052_000_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Hucth Sequin Jumpsuit",
-      price: "248.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwc637c03d/productimages/1N046210_LV03.jpg?sw=354&sh=444",
+      title: "Baby 3-peice construction short set",
+      price: "$18.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/80389752_009_b?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "By Anthropologie Kari wide-Leg Pants",
-      price: "8.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw6a0f1199/productimages/1O878110_LV03.jpg?sw=354&sh=444",
+      title: "Play Pajama",
+      price: "$8.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4113640120020_001_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "By Anthropologie Lack-Sleeve Sweater",
-      price: "28.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw3986c2a0/productimages/1O928410.jpg?sw=672",
+      title: "Baby Floral snap Romper",
+      price: "$8.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/60288503_006_b?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Varle Vine Half-Zip Pullover",
-      price: "58.00",
+      img: "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw0536e15e/productimages/1O929910.jpg?sw=470",
+      title: "Baby 1- peice watermelon romper",
+      price: "$5.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4130916210042_043_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "The Marais Printed Chiffon Maxi Dress ",
-      price: "80.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw877cf7e2/productimages/1O877910_LV03.jpg?sw=354&sh=444",
+      title: "Baby Tiger snap-up footie sleep & play pajama ",
+      price: "$8.79",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4130448390038_031_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Mono River Fringed Sweater Dress",
-      price: "14.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw21cdae44/productimages/1O948810_1.jpg?sw=354&sh=444",
+      title: "Baby 2-peice tee",
+      price: "$14.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/80006695_001_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "T.La Puff Sleeve Tired Dress",
-      price: "8.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwbb4d8ca7/productimages/1O955510_LV03.jpg?sw=354&sh=444",
+      title: "Baby 3-peice little short set",
+      price: "$8.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4123650590207_004_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Maeve Parachute Pants",
-      price: "48.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwb4bfb9b5/productimages/1O966610_1.jpg?sw=354&sh=444",
+      title: "Baby Embroidered floral frock",
+      price: "$13.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4113326950106_018_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Mave Back-Bow Sweater Tank ",
-      price: "8.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe84ee07f/productimages/1P338110.jpg?sw=672",
+      title: "Baby Fish Jersey Romper ",
+      price: "$8.00",
     },
   ],
 
-  "New Today": [
+  "Deals for him": [
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/62656665_031_d10?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "BHLDN Dylan Satin Charmeuse Dress",
-      price: "248.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw6e1056f2/productimages/39125511_1.jpg?sw=354&sh=444",
+      title: "Kid Pocket Jersey tee",
+      price: "$12.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/63828024_048_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "BHLDN Ruby Satin Charmeuse Dress",
-      price: "220.00",
+      img: "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b7/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4997ca49/productimages/3N040012.jpg?sw=354&sh=444&yocs=4G_4E_",
+      title: "Kid Shorts",
+      price: "$6.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/62548623_060_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "BHLDN Cali Satin Charmeuse Midi Dress",
-      price: "168.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw2de06eea/productimages/3O889314_1.jpg?sw=354&sh=444",
+      title: "Kid Canavas Trail Shorts",
+      price: "$7.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/69274678_014_b1?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
-      title: "BHLDN Remy Satin Charmeuse Dress",
-      price: "248.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe691e589/productimages/2Q354314_LV03.jpg?sw=354&sh=444",
+      title: "Toddler long Sleeve shirt",
+      price: "$12.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/80389752_009_b?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "By Anthropologie Kari wide-Leg Pants",
-      price: "8.00",
+      img: "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b7/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwbea68f3f/productimages/IM721OK.jpg?sw=354&sh=444&yocs=4G_4E_",
+      title:"Kid Graphic shirt ",
+      price: "$8.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4113640120020_001_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "By Anthropologie Lack-Sleeve Sweater",
-      price: "28.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwe079d29a/productimages/3N130911_1.jpg?sw=354&sh=444",
+      title: "Kid Stretch Chino Shorts",
+      price: "$8.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/60288503_006_b?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Varle Vine Half-Zip Pullover",
-      price: "58.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw3ccb6187/productimages/3Q354213_LV03.jpg?sw=354&sh=444",
+      title: "Kid Oshkosh's Original Long Sleeve",
+      price: "$18.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4130916210042_043_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "The Marais Printed Chiffon Maxi Dress ",
-      price: "80.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw20b715ce/productimages/3Q262411_LV03.jpg?sw=354&sh=444",
+      title: "Kid Oshkosh's Graphic tee Shirt ",
+      price: "$7.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4130448390038_031_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Mono River Fringed Sweater Dress",
-      price: "14.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw3d5ed26b/productimages/3O961210_1.jpg?sw=354&sh=444",
+      title:"Kid pull-on poplin Short",
+      price: "$14.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/80006695_001_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "T.La Puff Sleeve Tired Dress",
-      price: "8.00",
+      img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwadc50cf0/productimages/2P016211_1.jpg?sw=354&sh=444",
+      title: "Toddler Stretch Chino Shorts",
+      price: "$8.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4123650590207_004_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Maeve Parachute Pants",
-      price: "48.00",
+      img: "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b7/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwd62a60b1/productimages/CARS22JANKBTEESBASIC1.jpg?sw=354&sh=444&yocs=4G_4E_",
+      title:"4-pocket tees",
+      price: "$8.00",
     },
     {
-      img: "https://images.urbndata.com/is/image/Anthropologie/4113326950106_018_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
-      title: "Mave Back-Bow Sweater Tank ",
-      price: "8.00",
+      img: "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/a6ab0650c708013b47180ead9ecbf798.yottaa.net/v~4b.2b7/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw20ae806d/productimages/OKBS22JUNTB2PKUNIFSHORTS3.jpg?sw=354&sh=444&yocs=4G_4E_",
+      title:"Uniform multi pack",
+      price: "$10.00",
     },
   ],
-  "New This Week": [
+  "": [
     {
       img: "https://images.urbndata.com/is/image/Anthropologie/4113086690097_068_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
       title: "The Alani Cashmere Mock-Neck Sweater",
@@ -218,7 +218,7 @@ const data8 = {
       price: "8.00",
     },
   ],
-  Baby girl: [
+  "Baby Girl": [
     {
       img: "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwea9f37c6/productimages/1P543610_LV03.jpg?sw=354&sh=444",
       title: "Baby Cousin Crew Long-Sleeve Bodysuit",
@@ -342,7 +342,7 @@ const data8 = {
       price: "68.00",
     },
   ],
-  Kid Girl: [
+  "kid girl": [
     {
       img: "https://www.carters.com/carters-shop-kid-girl-clothes/V_3P536810.html",
       title: "Kid Rainbow Jersey Dress",
@@ -446,7 +446,7 @@ const data8 = {
       price: "8.00",
     },
   ],
-  Toddler Boy: [
+  "Toddler boy": [
     {
       img: "https://www.carters.com/carters-shop-toddler-boy-clothes/OKBS22JULTB3PKDENIM1.html",
       title: "Toddler 3-Pack Straight Leg Jeans",
@@ -571,7 +571,7 @@ const data8 = {
       price: "8.00",
     },
   ],
-  Family Mathching: [
+  "Family mathching": [
     {
       img: "https://www.carters.com/carters-family-matching/V_1P355910.html",
       title: "Baby 2-Piece Back To School 100% Snug Fit Cotton Pajamas",
@@ -698,17 +698,21 @@ const data8 = {
   ],
 };
 const LinkItems = [
-  { name: "New" },
-  { name: "New Today" },
-  { name: "New This Week" },
-  { name: "Dresses" },
-  { name: "Jackets" },
-  { name: "Jeans" },
-  { name: "Jumpsuits" },
-  { name: "Pants" },
-  { name: "Shorts" },
-  { name: "Skirts" },
-  { name: "Sweaters" },
+  { name: " Baby Deals" },
+  { name: "Deals for him" },
+  { name: "Deals for her" },
+  { name: "Baby Girl" },
+  { name: "Toddler Girl" },
+  { name: "kid Girl" },
+  { name: "Baby Boy" },
+  { name: "Toddler boy" },
+  { name: "kid boy" },
+  { name: "Family matching" },
+  { name: "Tops" },
+  { name: "Bottom" },
+  { name: "Pajama" },
+  { name: "Shoes" },
+  { name: "Clearance" },
 ];
 
 export default function SimpleSidebar({ children }) {
