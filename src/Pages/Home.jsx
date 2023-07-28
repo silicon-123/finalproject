@@ -323,31 +323,7 @@ export default function Home() {
         ))}
       </Grid>
 
-      <Grid templateColumns="repeat(3,30.2%)" ml="5%" gap="7" mt="40px">
-        {data5.map((item, i) => (
-          <div key={i}>
-            <RouterLink to="/products">
-              <Box>
-                <img src={item.img} width="100%" />
-              </Box>
-            </RouterLink>
-            <Center>
-              <Button
-                style={{
-                  width: "auto",
-                  backgroundColor: "white",
-                  mt: "-100px",
-                  position: "relative",
-                  bottom: "70px",
-                  borderRadius: "none",
-                }}
-              >
-                {item.title}
-              </Button>
-            </Center>
-          </div>
-        ))}
-      </Grid>
+    
       <Text style={{ marginLeft: "68px" }}> You May Also Like</Text>
       <hr />
 
