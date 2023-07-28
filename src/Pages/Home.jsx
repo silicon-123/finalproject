@@ -111,7 +111,7 @@ export default function Home() {
   const data4 = [
     {
       img: "https://images.ctfassets.net/5de70he6op10/6smg43UznC0EXEEvtUZOeK/2d857986576d95ecf780716a37fc0b77/LS_M5_BHLDN.jpg?w=2641&q=80&fm=webp",
-      title: "shop the spring '23 collection",
+      title: "Kids & Baby",
     },
   ];
   const data5 = [
