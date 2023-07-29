@@ -228,118 +228,88 @@ const MobileNavItem = ({ label, children, href }) => {
 
 const NAV_ITEMS = [
   {
-    label: "Gift",
+    label: "Baby",
     children: [
       {
-        label: "Shop by Category",
+        label: "Baby Girl",
         subLabel: [
-          "Explore All Gifts",
-          " Stocking Stuffers",
-          "Giftables",
-          "Gifts for Her",
-          "Candle Gifts &Sets",
+          "BestSeller",
+          "Just Arrived",
+          "Pajamas",
         ],
         href: "#",
       },
       {
-        label: "Featured",
+        label: "Baby boy",
         subLabel: [
-          "The Pet Shop",
-          "The Game Shop",
-          "The George & Viv Holiday Shop",
-          "The One-Size Gift Shop",
-          "Terrian Holiday Shop",
+          "Best Sellers",
+          "Just Aarrived",
+          "New",
+        ],
+        href: "#",
+      },
+      {
+        label: "Baby Neutral",
+        subLabel: [
+          "Best Sellers",
+          "Just Aarrived",
+          "New",
+        ],
+        href: "#",
+      },
+      {
+        label: "Baby Nursery and gear",
+        subLabel: [
+          "Best Sellers",
+          "Just Aarrived",
+          "New",
         ],
         href: "#",
       },
     ],
   },
   {
-    label: "New!",
+    label: "Toddler",
     children: [
       {
-        label: "Shop by Category",
+        label: "Toddler Boy",
         subLabel: [
-          "Accessories",
-          "Beauty & Wellness",
-          "Clothng",
-          "Dresses",
-          "Home & Furniture",
-          "Jewelry",
-          "Petites",
-          "Plus",
-          "Shoe",
-          "BHLDN Weddings",
+          "Best Sellers",
+          "Just Arrived",
+          "Mix and Match",
         ],
         href: "#",
       },
       {
-        label: "Featured",
+        label: "Toddler Girl",
         subLabel: [
-          "New Today:Clothing & Accessories",
-          " Trending:Metallic & Shine",
-          "The Velvet Shop",
-          "House of Hackney",
+          "Best Sellers",
+          "Just Arrived",
+          "Mix and Match",
         ],
         href: "#",
       },
     ],
   },
   {
-    label: "Dress",
+    label: "Kid",
     children: [
       {
-        label: "Shop bu Cateory",
+        label: "Girl",
         subLabel: [
-          "Shop All Dresses",
-          "New!",
-          "Top Rated Dresses",
-          "Ocassionns & Party Dresses",
-          "Lounge & Casual Dresses",
-          "Formal Dresses",
-          "Maxi Dresses",
+          "Best Sellers",
+          "Just Arrived",
+          "Mix and Match",
+          
         ],
         href: "#",
       },
       {
-        label: "Features Shops",
+        label: "Boy",
         subLabel: [
-          "Velvet Dresses",
-          "Trending:Tulle",
-          "Little Black Dresses",
-          "Little White Dresses",
-        ],
-        href: "#",
-      },
-    ],
-  },
-  {
-    label: "Clothing",
-    children: [
-      {
-        label: "Shop Category",
-        subLabel: [
-          "Shop All Clothing",
-          "New!",
-          "Top-Rated",
-          "Activewear",
-          "Blazers",
-          "Dresses",
-          "Getaway& Resort Wear",
-          "Intimates & Lingerie",
-          "Jackets & Coats",
-          "Jeans",
-          "Jumpsuits",
-        ],
-        href: "#",
-      },
-      {
-        label: "Featured",
-        subLabel: [
-          "The Holiday Party Shop",
-          " Trending:Metallic & Shine",
-          "The Velvet Shop",
-          "The Cozy Adventure Shop",
+          "Best Sellers",
+          "Just Arrived",
+          "Mix and Match",
         ],
         href: "#",
       },
@@ -349,179 +319,45 @@ const NAV_ITEMS = [
     label: "Shoes",
     children: [
       {
-        label: "Shop by Category",
-        subLabel: [
-          "Shop All Shoes",
-          "New!",
-          "Top-Rated",
-          "Boot & Booties",
-          "Cold Weather Boots",
-          "Flats",
-        ],
+        label: "Baby Girl",
         href: "#",
       },
       {
-        label: "Brand We Love",
-        subLabel: ["ON", "Bibi Lou", "Silent D", "Sore!", "UGG"],
+        label: "Baby Boy",
         href: "#",
+      },
+      {
+        label:"Toddler Girl",
+        href: "#",
+      },
+      {
+        label:"Toddler Boy",
+        href:"#"
       },
     ],
   },
   {
-    label: "Accessories",
+    label: "New and Popular",
     children: [
       {
-        label: "Shop by Category",
+        label: "Just Arrived",
         subLabel: [
-          "Shop All Accessories",
-          "Top-Rated",
-          "Bag & Small Accessories",
-          "Belts",
-          "Gloves",
-          "Hair Accessories",
+          "Shop All",
+          "Baby Girl",
+          "Baby Boy",
+          "Toddler Girl",
+          "Toddler Boy",
         ],
         href: "#",
       },
       {
-        label: "Explore Jewelry",
+        label: "Halloween Shop",
         subLabel: [
-          "Necklaces",
-          "Earrings",
-          "Bracelets",
-          "Rings",
-          "Hoop Shop",
-          "Shop All Jewelry",
+          "Shop All",
         ],
         href: "#",
       },
     ],
   },
-  {
-    label: "BHLDN Weddings",
-    children: [
-      {
-        label: "Shop by Category",
-        subLabel: [
-          "Explore All BHLDN Weddings",
-          " Book An Appointment",
-          "Shop All Weddings",
-          "New!",
-          "Top Rated Styles",
-          "Bride",
-          "Wedding Dresses",
-        ],
-        href: "#",
-      },
-      {
-        label: "Bridal by Styles",
-        subLabel: [
-          "Morden Bride",
-          " Bohemain Bride",
-          "Beach & Destination Bride",
-          "City Hall Bride",
-          "Romantic Bride",
-          "Classic Bride",
-        ],
-        href: "#",
-      },
-    ],
-  },
-  {
-    label: "Home & Furniture",
-    children: [
-      {
-        label: "Shop by Category",
-        subLabel: [
-          "Explore All Home & Furniture",
-          " New!",
-          "Bath",
-          "Beeding",
-          "Candle & Home Fragrance",
-          "Decor",
-          "Furniture",
-        ],
-        href: "#",
-      },
-      {
-        label: "AnthroLiving House Tours",
-        subLabel: [
-          "Less Is More",
-          "House of Hackney",
-          "A Sense of Place",
-          "*Sol*ful Spaces",
-          "The Story Of Home",
-          "Be Our Guest",
-          "True Nature",
-          "Lit From Within",
-        ],
-        href: "#",
-      },
-    ],
-  },
-  {
-    label: "Beauty & Wellness",
-    children: [
-      {
-        label: "Shop by Category",
-        subLabel: [
-          "Shop All Beauty & Wellness",
-          "New!",
-          "Top-Rated",
-          "Beauty Gifts & Sets",
-          "Bath & Body",
-          "Candles & Home Fragrance",
-        ],
-        href: "#",
-      },
-      {
-        label: "Featured",
-        subLabel: [
-          "The George & Viv Holiday Shop",
-          " Anthropologie Exclusives",
-          "Beauty Gifts Under $25",
-          "Travel Size",
-        ],
-        href: "#",
-      },
-    ],
-  },
-  {
-    label: "Garden & Outdoor",
-    children: [
-      {
-        label: "Shop by Category",
-        subLabel: [
-          "Shop All Garden & Outdoor",
-          " Planters",
-          "Garden & Utility",
-          "Outdoor Living",
-          "Furniture",
-          "Plant & Flowers",
-        ],
-        href: "#",
-      },
-    ],
-  },
-  {
-    label: "Sale",
-    children: [
-      {
-        label: "Shop by Category",
-        subLabel: [
-          "Shop All Sales",
-          "Freshly Cut",
-          "Accessories",
-          "Beauty & Wellness",
-          "Clothing",
-          "Home & Furniture",
-        ],
-        href: "#",
-      },
-      {
-        label: "Shop by Price",
-        subLabel: ["Under $25", " Under $50", "Under $75", "Under $100"],
-        href: "#",
-      },
-    ],
-  },
+  
 ];
